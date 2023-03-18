@@ -18,10 +18,15 @@
 ![1-6](https://github.com/SG-netology/9-2-Git/blob/main/1-6.png)
 
 Задание 2
+
 Установите Zabbix Agent на два хоста.
+
 Приложите в файл README.md скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу
+
 Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером
-Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
+
+Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные
+
 Приложите в файл README.md текст использованных команд в GitHub
 
 ![1-7](https://github.com/SG-netology/9-2-Git/blob/main/1-7.png)
