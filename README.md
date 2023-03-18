@@ -11,4 +11,3 @@
 Приложите в файл README.md текст использованных команд в GitHub
 
 ![1-1](https://github.com/SG-netology/9-2-Git/blob/main/1-1.png)
-![1-2](https://github.com/SG-netology/9-1-Git/blob/main/1-2.png)
