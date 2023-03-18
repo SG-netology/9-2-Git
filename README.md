@@ -10,3 +10,4 @@
 Прикрепите в файл README.md скриншот авторизации в админке
 Приложите в файл README.md текст использованных команд в GitHub
 
+![1-1](https://github.com/SG-netology/9-2-Git/blob/main/1-1.png)
